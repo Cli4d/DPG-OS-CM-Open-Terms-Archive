@@ -1,7 +1,7 @@
 ---
-name: Issue to fix
-about: This is an issue template for identifying things we can work on to improve
-  the Open Terms Archive OS Community
+name: Issue Template (Normal Issue)
+about: This is an normal issue template for providing accurate info that need to be
+  fixed
 title: ''
 labels: ''
 assignees: ''
