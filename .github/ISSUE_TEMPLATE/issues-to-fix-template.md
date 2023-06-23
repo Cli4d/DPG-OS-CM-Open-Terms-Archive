@@ -1,5 +1,5 @@
 ---
-name: Issues to Fix (ER Template)
+name: Issues to Fix Template
 about: This is an issue template that helps create issues noted with OTA that might
   need to be fixed
 title: ''
@@ -21,9 +21,10 @@ REPLACE TEXT - [What are the repercussions of this being left as it is?]
 REPLACE TEXT - [Any resources that can be linked to help solve this problem]
 
 ### Recommended Action Items
-- [ ] Rank the priority of this issue (You can use priority labels)
-- [ ] Make a new issue in the project repository
-- [ ] Discuss with the Open Terms Archive team
+- [ ] Add a priority label to this issue (OTA team)
+- [ ] Add a project label to this issue
 - [ ] Discuss with a Community Manager at Open Terms Archive
+- [ ] Discuss with the Open Terms Archive team
+- [ ] Make a new issue in the project repository
 
 ### Potential solutions [draft]
