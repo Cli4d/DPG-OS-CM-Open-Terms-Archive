@@ -12,13 +12,13 @@ assignees: ''
 REPLACE TEXT - [What is the problem? Why do you think this is a problem?]
 
 ### Additional Information
-REPLACE TEXT - [You can add screenshots or more things to showcase the problem]
+REPLACE TEXT - [You can add screenshots, animated gifs, or more things to showcase the problem]
 
 ### What happens if this is not addressed
 REPLACE TEXT - [What are the repercussions of this being left as it is?]
 
 ### Resources
-REPLACE TEXT - [Any resources that can be linked to help solve this problem]
+REPLACE TEXT - [Any resources that can be linked to help solve or understand this problem]
 
 ### Recommended Action Items
 - [ ] Add a priority label to this issue (OTA team)
